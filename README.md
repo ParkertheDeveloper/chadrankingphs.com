@@ -1,2 +1,2 @@
-# chadrankingsphs.com
-ChadRankingsPHS
+# chadrankingphs.com
+ChadRankingPHS
